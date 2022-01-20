@@ -1,0 +1,10 @@
+unused_cogs/
+token.txt
+keep_alive.py
+/cogs/__pycache__/
+/utils/__pycache__/
+betabot_token.txt
+config.json
+__pycache__/
+*.pyc
+testing/
