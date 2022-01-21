@@ -1,4 +1,5 @@
-<img src="https://img.shields.io/tokei/lines/github/Prakhar9206/Roboton">
+[<img src="https://img.shields.io/discord/846401421317242910?color=5865f2&label=Discord&logo=discord">](https://discord.gg/5BfzYW8ufx) <img src="https://img.shields.io/tokei/lines/github/Prakhar9206/Roboton">
+
 # Roboton
 A discord bot I made for fun.
 Please note: even though I have made the source code public, I would prefer if you do not run an instance of my bot.\
