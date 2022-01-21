@@ -3,7 +3,7 @@
 A discord bot I made for fun.
 Please note: even though I have made the source code public, I would prefer if you do not run an instance of my bot.\
 There are many things which will not work in this bot without a mongodb database. I am sorry I cannot help you to create a database for this bot.\
-Please consider [inviting the bot](https://discord.com/api/oauth2/authorize?client_id=846035270100320267&permissions=67497024&scope=bot%20applications.commands) instead.\
+Please consider [Inviting the bot](https://discord.com/api/oauth2/authorize?client_id=846035270100320267&permissions=67497024&scope=bot%20applications.commands) instead.\
 The code is only provided for educational purposes.
 
 ### Getting help with the source code
