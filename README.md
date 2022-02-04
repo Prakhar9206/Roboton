@@ -1,8 +1,10 @@
+[<img src="https://img.shields.io/discord/846401421317242910?color=5865f2&label=Discord&logo=discord">](https://discord.gg/5BfzYW8ufx) <img src="https://img.shields.io/tokei/lines/github/Prakhar9206/Roboton">
+
 # Roboton
 A discord bot I made for fun.
 Please note: even though I have made the source code public, I would prefer if you do not run an instance of my bot.\
 There are many things which will not work in this bot without a mongodb database. I am sorry I cannot help you to create a database for this bot.\
-Please consider [inviting the bot](https://discord.com/api/oauth2/authorize?client_id=846035270100320267&permissions=67497024&scope=bot%20applications.commands) instead.\
+Please consider [Inviting the bot](https://discord.com/api/oauth2/authorize?client_id=846035270100320267&permissions=67497024&scope=bot%20applications.commands) instead.\
 The code is only provided for educational purposes.
 
 ### Getting help with the source code
