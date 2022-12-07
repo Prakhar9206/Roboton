@@ -164,6 +164,7 @@ class Admin(commands.Cog, name="Admin", command_attrs=dict(hidden=True)):
             await ctx.send("Status updated")
 
     @commands.command(hidden=True)
+    @commands.is_owner()
     async def d_sudo(self, ctx, channel: Optional[GlobalChannel], who: Union[discord.Member, discord.User], *, command: str):
         """Run a command as another user optionally in another channel."""
         msg = copy.copy(ctx.message)
